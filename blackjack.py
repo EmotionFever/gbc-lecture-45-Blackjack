@@ -1,6 +1,6 @@
 import random
 
-#
+# pp
 # Blackjack game
 #
 # From Tim Buchalka's Learn Python course
